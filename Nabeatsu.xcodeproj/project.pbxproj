@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46AE43AB1C6706AD002B2AF2 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A01C6706AD002B2AF2 /* Icon-40.png */; };
+		46AE43AC1C6706AD002B2AF2 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A11C6706AD002B2AF2 /* Icon-40@2x.png */; };
+		46AE43AD1C6706AD002B2AF2 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A21C6706AD002B2AF2 /* Icon-40@3x.png */; };
+		46AE43AE1C6706AD002B2AF2 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A31C6706AD002B2AF2 /* Icon-60@2x.png */; };
+		46AE43AF1C6706AD002B2AF2 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A41C6706AD002B2AF2 /* Icon-60@3x.png */; };
+		46AE43B01C6706AD002B2AF2 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A51C6706AD002B2AF2 /* Icon-76.png */; };
+		46AE43B11C6706AD002B2AF2 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A61C6706AD002B2AF2 /* Icon-76@2x.png */; };
+		46AE43B21C6706AD002B2AF2 /* Icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A71C6706AD002B2AF2 /* Icon-83.5@2x.png */; };
+		46AE43B31C6706AD002B2AF2 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A81C6706AD002B2AF2 /* Icon-Small.png */; };
+		46AE43B41C6706AD002B2AF2 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43A91C6706AD002B2AF2 /* Icon-Small@2x.png */; };
+		46AE43B51C6706AD002B2AF2 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43AA1C6706AD002B2AF2 /* Icon-Small@3x.png */; };
+		46AE43B71C6706B5002B2AF2 /* Nabeatsu.png in Resources */ = {isa = PBXBuildFile; fileRef = 46AE43B61C6706B5002B2AF2 /* Nabeatsu.png */; };
 		46D972041C5E5E1A00A742A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D972031C5E5E1A00A742A9 /* AppDelegate.swift */; };
 		46D972061C5E5E1A00A742A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D972051C5E5E1A00A742A9 /* ViewController.swift */; };
 		46D972091C5E5E1A00A742A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46D972071C5E5E1A00A742A9 /* Main.storyboard */; };
@@ -34,6 +46,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		46AE43A01C6706AD002B2AF2 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		46AE43A11C6706AD002B2AF2 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		46AE43A21C6706AD002B2AF2 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		46AE43A31C6706AD002B2AF2 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		46AE43A41C6706AD002B2AF2 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		46AE43A51C6706AD002B2AF2 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		46AE43A61C6706AD002B2AF2 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		46AE43A71C6706AD002B2AF2 /* Icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-83.5@2x.png"; sourceTree = "<group>"; };
+		46AE43A81C6706AD002B2AF2 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		46AE43A91C6706AD002B2AF2 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		46AE43AA1C6706AD002B2AF2 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		46AE43B61C6706B5002B2AF2 /* Nabeatsu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nabeatsu.png; sourceTree = "<group>"; };
 		46D972001C5E5E1A00A742A9 /* Nabeatsu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nabeatsu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46D972031C5E5E1A00A742A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46D972051C5E5E1A00A742A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +126,18 @@
 				46D972071C5E5E1A00A742A9 /* Main.storyboard */,
 				46D9720A1C5E5E1A00A742A9 /* Assets.xcassets */,
 				46D9720C1C5E5E1A00A742A9 /* LaunchScreen.storyboard */,
+				46AE43A01C6706AD002B2AF2 /* Icon-40.png */,
+				46AE43A11C6706AD002B2AF2 /* Icon-40@2x.png */,
+				46AE43A21C6706AD002B2AF2 /* Icon-40@3x.png */,
+				46AE43A31C6706AD002B2AF2 /* Icon-60@2x.png */,
+				46AE43A41C6706AD002B2AF2 /* Icon-60@3x.png */,
+				46AE43A51C6706AD002B2AF2 /* Icon-76.png */,
+				46AE43A61C6706AD002B2AF2 /* Icon-76@2x.png */,
+				46AE43A71C6706AD002B2AF2 /* Icon-83.5@2x.png */,
+				46AE43B61C6706B5002B2AF2 /* Nabeatsu.png */,
+				46AE43A81C6706AD002B2AF2 /* Icon-Small.png */,
+				46AE43A91C6706AD002B2AF2 /* Icon-Small@2x.png */,
+				46AE43AA1C6706AD002B2AF2 /* Icon-Small@3x.png */,
 				46D9720F1C5E5E1A00A742A9 /* Info.plist */,
 			);
 			path = Nabeatsu;
@@ -232,9 +268,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46AE43B21C6706AD002B2AF2 /* Icon-83.5@2x.png in Resources */,
+				46AE43B71C6706B5002B2AF2 /* Nabeatsu.png in Resources */,
+				46AE43AF1C6706AD002B2AF2 /* Icon-60@3x.png in Resources */,
+				46AE43AB1C6706AD002B2AF2 /* Icon-40.png in Resources */,
 				46D9720E1C5E5E1A00A742A9 /* LaunchScreen.storyboard in Resources */,
 				46D9720B1C5E5E1A00A742A9 /* Assets.xcassets in Resources */,
+				46AE43B41C6706AD002B2AF2 /* Icon-Small@2x.png in Resources */,
+				46AE43AE1C6706AD002B2AF2 /* Icon-60@2x.png in Resources */,
 				46D972091C5E5E1A00A742A9 /* Main.storyboard in Resources */,
+				46AE43AD1C6706AD002B2AF2 /* Icon-40@3x.png in Resources */,
+				46AE43B31C6706AD002B2AF2 /* Icon-Small.png in Resources */,
+				46AE43AC1C6706AD002B2AF2 /* Icon-40@2x.png in Resources */,
+				46AE43B11C6706AD002B2AF2 /* Icon-76@2x.png in Resources */,
+				46AE43B51C6706AD002B2AF2 /* Icon-Small@3x.png in Resources */,
+				46AE43B01C6706AD002B2AF2 /* Icon-76.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -402,7 +450,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Nabeatsu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.Nabeatsu;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.touyou.Nabeatsu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -413,7 +461,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Nabeatsu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.Nabeatsu;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.touyou.Nabeatsu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -485,6 +533,7 @@
 				46D9722A1C5E5E1A00A742A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46D9722B1C5E5E1A00A742A9 /* Build configuration list for PBXNativeTarget "NabeatsuTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +542,7 @@
 				46D9722D1C5E5E1A00A742A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		46D9722E1C5E5E1A00A742A9 /* Build configuration list for PBXNativeTarget "NabeatsuUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +551,7 @@
 				46D972301C5E5E1A00A742A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

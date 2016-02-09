@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    // 数字がアホかどうか
     func isAho() -> Bool {
         if number % 3 == 0 {
             return true
@@ -34,6 +35,7 @@ class ViewController: UIViewController {
         return false
     }
     
+    // 押すとカウントをふやす
     @IBAction func push() {
         number++
         label.text = String(number)
@@ -44,7 +46,7 @@ class ViewController: UIViewController {
         }
     }
 
-    
+    // リセット
     @IBAction func clear() {
         number = 0
         label.text = "\(0)"
